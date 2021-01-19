@@ -10,5 +10,7 @@ body {
 </style>
 <FONT FACE = "VERDANA", color = "FF0099", SIZE = 7> <B> D'TLE 9: 2020-2021 </B> </FONT><br><br>
 
-<FONT COLOR = "BLUE", SIZE = "7", FACE = "APPLE CHANCERY">
-  <B>  <MARQUEE> <U>WELCOME *** TO MY *** HOMEPAGE </U></MARQUEE>  </FONT></b>
+<FONT COLOR = "3300ff", SIZE = 50, FACE = "CHILLER">
+    <marquee direction="down" width="250" height="550" behavior="alternate" >
+      <marquee behavior="alternate"><BR><b> <br>
+      WELCOME <BR> <BR> TO MY <BR> <BR> HOMEPAGE </MARQUEE> </MARQUEE> </FONT></b>
