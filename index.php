@@ -14,3 +14,20 @@ body {
     <marquee direction="down" width="250" height="550" behavior="alternate" >
       <marquee behavior="alternate"><BR><b> <br>
       WELCOME <BR> <BR> TO MY <BR> <BR> HOMEPAGE </MARQUEE> </MARQUEE> </FONT></b>
+<p align = "center">
+<fon face = "verdana", color = "black", size= "5"> <i><b> ARTWORK
+</i></b>
+
+<br>
+<br>
+<img src = "artwork.jpg">
+<br>
+<br>
+<br>
+<b> Click here to see our <br> VIDEO ADVOCACY </b></font>
+<br>
+<a href= "https://www.youtube.com/watch?fbclid=IwAR2u12lAAQQh7DD6kQguucNgO8vYgsfBjyC8XIE6YmCJhQj-3zULrffOmaw&v=_fIqXMv0Qcg&feature=youtu.be&ab_channel=somedaymorningnorainisfalling"> Math Video Advocacy </a>
+
+</html>
+</body>
+        
